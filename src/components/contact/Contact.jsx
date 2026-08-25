@@ -21,7 +21,7 @@ const addressData = [
   {
     icon: faPhone,
     title: "Phone",
-    description: "+91 9030372304",
+    description: "+91 8106491615",
   },
 ];
 
